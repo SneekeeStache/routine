@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c29fe450-2b83-4aa4-ab1a-a105d2f68cd9}">
+		<property name="assetPath">
+			<value>TouchCar1.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.3857823129251701</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d4bc896d-dd18-4135-a403-bfe94502c9de}</destination>
+		</relationship>
+	</object>
+</objects>
